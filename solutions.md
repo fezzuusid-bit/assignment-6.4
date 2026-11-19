@@ -53,7 +53,7 @@ HTML
     <button class="fab" aria-label="Help or Contact">💬</button>
 
     <footer>
-        <p>&copy; 2026 Atim Akhtar. All rights reserved.</p>
+        <p>&copy; 2026 falak siddiqui. All rights reserved.</p>
     </footer>
 </body>
 </html>
